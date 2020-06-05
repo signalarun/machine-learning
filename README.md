@@ -1,7 +1,7 @@
-# machine-learning
+# MACHINE LEARNING
   Repository for machine learning projects and notes
 
-# Topics
+## Topics
 * HMM
 * Regression
 * Probability
