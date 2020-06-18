@@ -5,3 +5,4 @@
 * HMM
 * Regression
 * Probability
+* Embedding
