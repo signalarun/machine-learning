@@ -4,4 +4,7 @@
 ## Work embeddings
   * SkipGram model
     - It learns the vector representation of each word that maximizes the probability of that word given the previous word
+    - Embeddings are hidden layer weights from Skipgram model
+## Graph embeddings
+  * Deep walk
     
