@@ -1,3 +1,5 @@
+# Convolutional Neural Network
+  * The network train against the results of the convolutions instead of the raw pixels by adding convolutional layers on top
 
 # Developer
   * Tensorflow
