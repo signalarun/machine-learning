@@ -14,3 +14,4 @@ This folder contains data which is publicaly available.
 ## Audio
  * https://voice.mozilla.org/en/datasets
  * https://urbansounddataset.weebly.com/urbansound8k.html 
+ * [ESC: Dataset for Environmental Sound Classification](https://dl.acm.org/doi/abs/10.1145/2733373.2806390)
