@@ -7,7 +7,7 @@ This folder contains data which is publicaly available.
 
 ## COVID19 related databases
  * [Coswara-Data](https://github.com/iiscleap/Coswara-Data)  
-    Project Coswara by Indian Institute of Science (IISc) Bangalore is an attempt to build a diagnostic tool for Covid-19 based on respiratory, cough and speech sounds.
+    [Project Coswara](https://coswara.iisc.ac.in/) by Indian Institute of Science (IISc) Bangalore is an attempt to build a diagnostic tool for Covid-19 based on respiratory, cough and speech sounds.
     The project is in the data collection stage now. It requires the participants to provide a recording of breathing sounds, cough sounds, sustained phonation of vowel
     sounds and a counting exercise.
  * https://github.com/hernanmd/COVID-19-train-audio/tree/master/not-covid19-coughs
