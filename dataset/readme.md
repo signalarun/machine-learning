@@ -5,6 +5,9 @@ This folder contains data which is publicaly available.
    - https://medium.com/tensorflow/introducing-tensorflow-datasets-c7f01f7e19f3
 * [Fashion MINIST](https://github.com/zalandoresearch/fashion-mnist)  
 
+* Medical
+  - [Chest X-ray](https://arxiv.org/abs/1705.02315)
+
 ## COVID19 related databases
  * [Coswara-Data](https://github.com/iiscleap/Coswara-Data)  
     [Project Coswara](https://coswara.iisc.ac.in/) by Indian Institute of Science (IISc) Bangalore is an attempt to build a diagnostic tool for Covid-19 based on respiratory, cough and speech sounds.
