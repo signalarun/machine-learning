@@ -6,9 +6,9 @@ This folder contains data which is publicaly available.
 * [Fashion MINIST](https://github.com/zalandoresearch/fashion-mnist)  
 
 ## Medical
-  - [Chest X-ray](https://arxiv.org/abs/1705.02315)
+ * [Chest X-ray](https://arxiv.org/abs/1705.02315)
 
-## COVID19 related databases
+### COVID19 related databases
  * [Coswara-Data](https://github.com/iiscleap/Coswara-Data)  
     [Project Coswara](https://coswara.iisc.ac.in/) by Indian Institute of Science (IISc) Bangalore is an attempt to build a diagnostic tool for Covid-19 based on respiratory, cough and speech sounds.
     The project is in the data collection stage now. It requires the participants to provide a recording of breathing sounds, cough sounds, sustained phonation of vowel
