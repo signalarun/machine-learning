@@ -9,3 +9,4 @@
 ## Videos
  - [Regularization in a Neural Network explained by Deeplizard](https://www.youtube.com/watch?v=iuJgyiS7BKM)
  - [Andrew Ng's explanation](https://www.youtube.com/watch?v=6g0t3Phly2M)
+ - [Why Regularization Reduces Overfitting (C2W1L05)](https://www.youtube.com/watch?v=NyG-7nRpsW8)
