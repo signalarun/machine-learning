@@ -5,3 +5,6 @@
   - Early stoping, dropout techniques too helps in regularization [https://youtu.be/NRCZJUviZN0]
   - Early stopping
     + Monitoring performance of network based upon heldout validation set in every epoch and stopping based upon that performance
+
+## Videos
+ - https://www.youtube.com/watch?v=iuJgyiS7BKM
