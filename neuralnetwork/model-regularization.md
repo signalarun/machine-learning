@@ -7,5 +7,5 @@
     + Monitoring performance of network based upon heldout validation set in every epoch and stopping based upon that performance
 
 ## Videos
- - https://www.youtube.com/watch?v=iuJgyiS7BKM
+ - [Regularization in a Neural Network explained by Deeplizard](https://www.youtube.com/watch?v=iuJgyiS7BKM)
  - [Andrew Ng's explanation](https://www.youtube.com/watch?v=6g0t3Phly2M)
