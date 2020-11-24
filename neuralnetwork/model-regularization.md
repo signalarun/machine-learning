@@ -8,3 +8,4 @@
 
 ## Videos
  - https://www.youtube.com/watch?v=iuJgyiS7BKM
+ - [Andrew Ng's explanation](https://www.youtube.com/watch?v=6g0t3Phly2M)
