@@ -23,3 +23,8 @@ This folder contains data which is publicaly available.
  
  ## Data augmentation
   * https://github.com/AgaMiko/data-augmentation-review
+  * [SMOTE and ADASYN by imbalanced-learn](https://imbalanced-learn.org/stable/over_sampling.html)
+  * [SMOTE by smote-variants](https://pypi.org/project/smote-variants/)
+     - The package implements 85 variants of the Synthetic Minority Oversampling Technique (SMOTE). Besides the implementations,
+       an easy to use model selection framework is supplied to enable the rapid evaluation of oversampling techniques on unseen datasets.
+     
