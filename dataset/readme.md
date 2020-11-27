@@ -27,4 +27,6 @@ This folder contains data which is publicaly available.
   * [SMOTE by smote-variants](https://pypi.org/project/smote-variants/)
      - The package implements 85 variants of the Synthetic Minority Oversampling Technique (SMOTE). Besides the implementations,
        an easy to use model selection framework is supplied to enable the rapid evaluation of oversampling techniques on unseen datasets.
+  * https://nlpaug.readthedocs.io/en/latest/overview/overview.html
+    - This python library helps you with augmenting nlp for your machine learning projects.
      
