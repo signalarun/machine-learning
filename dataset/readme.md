@@ -29,4 +29,23 @@ This folder contains data which is publicaly available.
        an easy to use model selection framework is supplied to enable the rapid evaluation of oversampling techniques on unseen datasets.
   * https://nlpaug.readthedocs.io/en/latest/overview/overview.html
     - This python library helps you with augmenting nlp for your machine learning projects.
+  * [WaveGAN](https://github.com/chrisdonahue/wavegan)
+    - Official implementation of WaveGAN, a machine learning algorithm which learns to generate raw audio waveforms
+  * [Data augmentation Review](https://github.com/AgaMiko/data-augmentation-review)  
+  * [Audiomentations](https://github.com/iver56/audiomentations)
+    - A Python library for audio data augmentation. Inspired by albumentations. Useful for deep learning. Runs on CPU. 
+      Supports mono audio and partially multichannel audio. Can be integrated in training pipelines in e.g. Tensorflow/Keras or Pytorch. 
+      Has helped people get world-class results in Kaggle competitions. Is used by companies making next-generation audio products.
+  * [WavAugment](https://github.com/facebookresearch/WavAugment)
+     - WavAugment performs data augmentation on audio data. The audio data is represented as pytorch tensors.
+       It is particularly useful for speech data. Among others, it implements the augmentations that we found to be most useful
+       for self-supervised learning (Data Augmenting Contrastive Learning of Speech Representations in the Time Domain, E. Kharitonov, M. Rivière, G. Synnaeve,
+       L. Wolf, P.-E. Mazaré, M. Douze, E. Dupoux. [arxiv]):
+
+       + Pitch randomization
+       + Reverberation
+       + Additive noise
+       + Time dropout (temporal masking)
+       + Band reject
+       + Clipping
      
