@@ -36,7 +36,7 @@ This folder contains data which is publicaly available.
     - A Python library for audio data augmentation. Inspired by albumentations. Useful for deep learning. Runs on CPU. 
       Supports mono audio and partially multichannel audio. Can be integrated in training pipelines in e.g. Tensorflow/Keras or Pytorch. 
       Has helped people get world-class results in Kaggle competitions. Is used by companies making next-generation audio products.
-  * [WavAugment](https://github.com/facebookresearch/WavAugment)
+  * [WavAugment](https://github.com/facebookresearch/WavAugment) : [Collab](https://colab.research.google.com/github/facebookresearch/WavAugment/blob/master/examples/python/WavAugment_walkthrough.ipynb#scrollTo=hp2DDt_aKOmB)
      - WavAugment performs data augmentation on audio data. The audio data is represented as pytorch tensors.
        It is particularly useful for speech data. Among others, it implements the augmentations that we found to be most useful
        for self-supervised learning (Data Augmenting Contrastive Learning of Speech Representations in the Time Domain, E. Kharitonov, M. Rivière, G. Synnaeve,
