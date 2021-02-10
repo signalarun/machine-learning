@@ -7,6 +7,8 @@ This folder contains data which is publicaly available.
    It is an ASCII text file that describes a list of data points sharing a set of attributes. ARFF files were developed by the Machine Learning Project at the
    Department of Computer Science of The University of Waikato for use with the Weka machine learning software.
 
+# Datasets
+
 * Tensorflow datasets
    - https://medium.com/tensorflow/introducing-tensorflow-datasets-c7f01f7e19f3
 * [Fashion MINIST](https://github.com/zalandoresearch/fashion-mnist)  
