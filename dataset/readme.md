@@ -3,7 +3,8 @@ This folder contains data which is publicaly available.
 
 
 ## Dataset Formats
- + [ARFF (Attribute-Relation File Format)](https://www.cs.waikato.ac.nz/ml/weka/arff.html)
+ + [ARFF (Attribute-Relation File Format)](https://www.cs.waikato.ac.nz/ml/weka/arff.html)  
+ 
    It is an ASCII text file that describes a list of data points sharing a set of attributes. ARFF files were developed by the Machine Learning Project at the
    Department of Computer Science of The University of Waikato for use with the Weka machine learning software.
 
