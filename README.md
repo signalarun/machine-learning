@@ -38,6 +38,10 @@
     - Apriori
     - Eclat
 
-
+## ML Metrics
+ + Sensitivity or Recall
+   - Sensitivity = (True Positive)/(True Positive + False Negative)
+ + Specificity
+   - Specificity = (True Negative)/(True Negative + False Positive)
  
 ## [Responsible AI practices](https://ai.google/responsibilities/responsible-ai-practices/)
