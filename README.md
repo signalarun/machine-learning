@@ -45,5 +45,9 @@
    - Specificity = (True Negative)/(True Negative + False Positive)
  + Receiver Operating Characteristic (ROC) curve
  + Area under ROC
+ + Youden index or Youden׳s J statistic
+   - It integrates sensitivity and specificity information under circumstances that emphasize both sensitivity and specificity,
+     with a value that ranges from 0 to 1.
+   - J = Sensitivity + Specificity − 1  
  
 ## [Responsible AI practices](https://ai.google/responsibilities/responsible-ai-practices/)
