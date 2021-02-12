@@ -14,14 +14,14 @@
     for prediction or classification
   * Online learning
     Its done on sequence of data or data in form of mini-batches.  It can be thought of as increamental learning.This too requires limited computing resources.
-## Some supervised learning algorithms
+### Some supervised learning algorithms
  * k-Nearest Neighbors
  * Linear Regression
  * Logistic Regression
  * Support Vector Machines (SVMs)
  * Decision Trees and Random Forests
  * Neural networks
-## Some unsupervised learning algorithms
+### Some unsupervised learning algorithms
  * Clustering
     - K-Means
     - DBSCAN
