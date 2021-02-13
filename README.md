@@ -37,7 +37,11 @@
  * Association rule learning
     - Apriori
     - Eclat
-
+## Classification problems
+ + Binary classification
+ + Multiclass classification
+   - Multiclass multilabel
+   - Multiclass single label
 ## ML Metrics
  + Accuracy
    - What fraction of prediction was right
