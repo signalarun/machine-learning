@@ -39,6 +39,9 @@
     - Eclat
 
 ## ML Metrics
+ + Accuracy
+   - What fraction of prediction was right
+   - warning! Not a suitable matrix for class imbalance problems 
  + Sensitivity or Recall
    - Sensitivity = (True Positive)/(True Positive + False Negative)
  + Specificity
