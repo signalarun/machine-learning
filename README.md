@@ -49,5 +49,14 @@
    - It integrates sensitivity and specificity information under circumstances that emphasize both sensitivity and specificity,
      with a value that ranges from 0 to 1.
    - J = Sensitivity + Specificity − 1  
+   ### 
+| |            |
+  |:----------|:-------------:|
+  | True Positive  <br>'We correctly called the wolf!<br> We saved the town.'  |  False Positive<br>'We called wolf falsely!<br> Everyone is mad at us.' |
+  | False Negative <br>'There was a wolf and we didn't spot it.<br> It ate all our chicken.' |    True Negative<br>'No wolf, no alarm.<br> Everyone is fine'   |
+ 
+ 
  
 ## [Responsible AI practices](https://ai.google/responsibilities/responsible-ai-practices/)
+ 
+    
