@@ -6,8 +6,9 @@
   ## One Vs. All
     In this design each output node represent each class. It becomes inefficient as the number of classes rises.
   ## Softmax
-    This design assigns decimal probabilities to each class in a multi-class problem, these probabilities also must add upto one. This constraint help training
-    to converge more quickly than it otherwise would.Softmax assumes each datapoint is a member of exactly one class.
+    This design assigns decimal probabilities to each class in a multi-class problem, these probabilities also must add upto one.
+    This constraint help training to converge more quickly than it otherwise would.Softmax assumes each datapoint is a member of 
+    exactly one class.
 
 # Videos
  - [Batch size](https://www.youtube.com/watch?v=U4WB9p6ODjM)
