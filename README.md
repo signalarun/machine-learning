@@ -64,7 +64,7 @@
  
 ## Validation
  + Cross validation
-   - Level-1-out CV
+   - Leave-1-out CV
    - K-fold CV
    - Randomized CV
  
