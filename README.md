@@ -62,7 +62,11 @@
   | True Positive  <br>'We correctly called the wolf!<br> We saved the town.'  |  False Positive<br>'We called wolf falsely!<br> Everyone is mad at us.' |
   | False Negative <br>'There was a wolf and we didn't spot it.<br> It ate all our chicken.' |    True Negative<br>'No wolf, no alarm.<br> Everyone is fine'   |
  
- 
+## Validation
+ + Cross validation
+   - Level-1-out CV
+   - K-fold CV
+   - Randomized CV
  
 ## [Responsible AI practices](https://ai.google/responsibilities/responsible-ai-practices/)
  
