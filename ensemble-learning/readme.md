@@ -8,4 +8,4 @@
   + Homogenous ensemble model
     - If multiple models of same algorithm are trained on same dataset we obtain a homogenous ensemble model
   + Heterogenous ensemble model
-    - If multiple models of different algorith are trained on same dataset we obtain a heterogenous model
+    - If multiple models of different algorithm are trained on same dataset we obtain a heterogenous model
