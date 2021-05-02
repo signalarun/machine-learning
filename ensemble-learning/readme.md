@@ -9,3 +9,5 @@
     - If multiple models of same algorithm are trained on same dataset we obtain a homogenous ensemble model
   + Heterogenous ensemble model
     - If multiple models of different algorithm are trained on same dataset we obtain a heterogenous model
+
+In this technique multiple models are trained and combined using ensembling methods like max-voting, averaging, and weighted averaging
