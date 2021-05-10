@@ -11,3 +11,8 @@
     - If multiple models of different algorithm are trained on same dataset we obtain a heterogenous model
 
 In this technique multiple models are trained and combined using ensembling methods like max-voting, averaging, and weighted averaging
+
+### Voting
+ + Majority voting or Hard voting
+   - Predict the class based upon the majority results of the participating model
+ + Soft voting
