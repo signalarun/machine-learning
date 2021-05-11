@@ -18,4 +18,8 @@ In this technique multiple models are trained and combined using ensembling meth
  + Soft voting
    -  Predict the class with the largest summed probability from models.  
 
-Hard voting is for models that predict class labels and Soft voting is for models that predict class membership probabilities.Voting ensemble works when all the participating model perform individually well.
+Hard voting is for models that predict class labels and Soft voting is for models that predict class membership probabilities.Voting ensemble works when all the participating model perform individually well. 
+Ensemble learning is useful for models on stochastic learning algorithm were its gives different fit for same datset at different times.It can be used with multiple fits of model trained using stochastic learning algorithm or for models with different hyperparameter settings.
+Extensions for ensemble learning :
+ + Weighted Average Ensemble (blending)
+ + Stacked Generalization (stacking)
