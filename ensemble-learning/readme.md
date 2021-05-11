@@ -17,4 +17,5 @@ In this technique multiple models are trained and combined using ensembling meth
    - Predict the class based upon the majority results of the participating model or predict the class with the largest sum of votes from models
  + Soft voting
    -  Predict the class with the largest summed probability from models.  
- Hard voting is for models that predict class labels and Soft voting is for models that predict class membership probabilities.Voting ensemble works when all the participating model perform individually well.
+
+Hard voting is for models that predict class labels and Soft voting is for models that predict class membership probabilities.Voting ensemble works when all the participating model perform individually well.
