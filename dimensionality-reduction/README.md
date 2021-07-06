@@ -6,6 +6,8 @@
 + Linear transformation
   - PCA
     * Helps to identify relationships and corelations among attributes
+    * Get correlation or covariance matrix -> calculate eigen values and eigne vectors of the correlation or covariance matrix -> 
+      PCA = eigen values or eigen vector * Original data 
   - Linear discriminant analysis
   - Factor analysis
 + Non-linear transform
