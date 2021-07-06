@@ -5,6 +5,7 @@
 ### Methods
 + Linear transformation
   - PCA
+    * Helps to identify relationships and corelations among attributes
   - Linear discriminant analysis
   - Factor analysis
 + Non-linear transform
