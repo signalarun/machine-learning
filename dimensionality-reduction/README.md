@@ -1,6 +1,14 @@
 
 ## Dimensionality Reduction
-  Scaling down large number of attributes to small number of attributes.
+  Scaling down large number of attributes to small number of attributes.It helps to deal with the curse of dimensionlality.
   
 ### Methods
-- PCA
++ Linear transformation
+  - PCA
+  - Linear discriminant analysis
+  - Factor analysis
++ Non-linear discriminant analysis
+  - t-SNE
+  - Hessian eigenmaps
+  - Spectral embedding
+  - Isometric feature mapping
