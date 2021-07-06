@@ -7,7 +7,7 @@
   - PCA
   - Linear discriminant analysis
   - Factor analysis
-+ Non-linear discriminant analysis
++ Non-linear transform
   - t-SNE
   - Hessian eigenmaps
   - Spectral embedding
