@@ -12,3 +12,6 @@
 
 # Videos
  - [Batch size](https://www.youtube.com/watch?v=U4WB9p6ODjM)
+
+# Libraries
+ + [A distributed deeplearning library](https://singa.apache.org/)
