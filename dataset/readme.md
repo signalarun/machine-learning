@@ -58,4 +58,10 @@ This folder contains data which is publicaly available.
        + Time dropout (temporal masking)
        + Band reject
        + Clipping
+
+## Dataset imbalance measures
+ * Class imbalance
+   - Measures by the number of members in the class
+ * Difference in proportion of labels (DPL)
+   - Measures the imbalance of positive outcome in different classes  
      
