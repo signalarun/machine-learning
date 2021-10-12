@@ -64,4 +64,8 @@ This folder contains data which is publicaly available.
    - Measures by the number of members in the class
  * Difference in proportion of labels (DPL)
    - Measures the imbalance of positive outcome in different classes  
+
+## Feature importance
+ * Explains each feature of dataset with a score.
+ * SHapely Additive exPlanations, an opensource framework to get feature importance
      
