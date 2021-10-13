@@ -10,6 +10,8 @@
     upto one.This constraint help training to converge more quickly than it otherwise would.Softmax assumes each
     datapoint is a member of exactly one class.
 
+# [Decoding learning curves](https://machinelearningmastery.com/learning-curves-for-diagnosing-machine-learning-model-performance/)
+
 # Videos
  - [Batch size](https://www.youtube.com/watch?v=U4WB9p6ODjM)
 
