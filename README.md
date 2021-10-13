@@ -50,8 +50,8 @@
    - Sensitivity = (True Positive)/(True Positive + False Negative)
  + Specificity
    - Specificity = (True Negative)/(True Negative + False Positive)
- + Receiver Operating Characteristic (ROC) curve
- + Area under ROC
+ + Receiver Operating Characteristic (ROC) curve [Tutorial](https://www.analyticsvidhya.com/blog/2020/06/auc-roc-curve-machine-learning/)
+ + Area under ROC [Tutorial](https://www.analyticsvidhya.com/blog/2020/06/auc-roc-curve-machine-learning/)
  + Youden index or Youden׳s J statistic
    - It integrates sensitivity and specificity information under circumstances that emphasize both sensitivity and specificity,
      with a value that ranges from 0 to 1.
