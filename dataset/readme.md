@@ -29,6 +29,7 @@ This folder contains data which is publicaly available.
  * [ESC: Dataset for Environmental Sound Classification](https://dl.acm.org/doi/abs/10.1145/2733373.2806390) - [dataset](https://github.com/karolpiczak/ESC-50)  
  * [Musical Instrument sounds](https://github.com/seth814/Audio-Classification/tree/master/wavfiles)
  * [Free spoken digit dataset](https://github.com/Jakobovski/free-spoken-digit-dataset)
+ * [Large-scale (1000 hours) corpus of read English speech](https://www.openslr.org/12/)
  
  
  ## Data augmentation
