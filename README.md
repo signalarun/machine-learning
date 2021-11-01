@@ -61,7 +61,15 @@
   |:----------|:-------------:|
   | True Positive  <br>'We correctly called the wolf!<br> We saved the town.'  |  False Positive<br>'We called wolf falsely!<br> Everyone is mad at us.' |
   | False Negative <br>'There was a wolf and we didn't spot it.<br> It ate all our chicken.' |    True Negative<br>'No wolf, no alarm.<br> Everyone is fine'   |
- 
+### Dataset imbalance measures
+   * [Class Imbalance](https://docs.aws.amazon.com/sagemaker/latest/dg/clarify-measure-data-bias.html)
+     - Measures by the number of members in the class
+     - Normalized range: [-1,+1]
+   * [Difference in proportion of labels (DPL)](https://docs.aws.amazon.com/sagemaker/latest/dg/clarify-measure-data-bias.html)
+     - Measures the imbalance of positive outcome in different classes
+     - Range for normalized binary & multicategory facet labels: [-1,+1], Range for continuous labels: (-∞, +∞)
+
+Range for continuous labels: (-∞, +∞)
 ## Validation
  + Cross validation
    - Leave-1-out CV
