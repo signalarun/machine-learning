@@ -69,7 +69,6 @@
      - Measures the imbalance of positive outcome in different classes
      - Range for normalized binary & multicategory facet labels: [-1,+1], Range for continuous labels: (-∞, +∞)
 
-Range for continuous labels: (-∞, +∞)
 ## Validation
  + Cross validation
    - Leave-1-out CV
