@@ -74,6 +74,10 @@
    - Leave-1-out CV
    - K-fold CV
    - Randomized CV
+
+## Output Explanation methods
+   - [SHAP (SHapley Additive exPlanations)](https://shap.readthedocs.io/en/latest/) is a game theoretic approach to explain the output of any machine learning
+     model
  
 ## [Responsible AI practices](https://ai.google/responsibilities/responsible-ai-practices/)
  
