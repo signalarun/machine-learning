@@ -9,6 +9,10 @@
     This design assigns decimal probabilities to each class in a multi-class problem, these probabilities also must add
     upto one.This constraint help training to converge more quickly than it otherwise would.Softmax assumes each
     datapoint is a member of exactly one class.
+    
+# Deep Neural Networks
+  "Deep learning is built around a hypothesis that a deep, hierarchical model can be exponentially more efficient at representing some functions than a shallow one."
+                                                                                                              — How to Construct Deep Recurrent Neural Networks, 2013.
 
 # [Decoding learning curves](https://machinelearningmastery.com/learning-curves-for-diagnosing-machine-learning-model-performance/)
 
