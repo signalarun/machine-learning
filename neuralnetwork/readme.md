@@ -12,12 +12,12 @@
     
 # Deep Neural Networks
   > "Deep learning is built around a hypothesis that a deep, hierarchical model can be exponentially more efficient at representing some functions than a shallow one."
-  >                                                                                                            — How to Construct Deep Recurrent Neural Networks, 2013.
+  >                                                                                                            — [How to Construct Deep Recurrent Neural Networks, 2013](https://arxiv.org/abs/1312.6026)
   
   > "RNNs are inherently deep in time, since their hidden state is a function of all previous hidden states. The question that inspired this paper was whether RNNs could also   
   > benefit from depth in space; that is from stacking multiple recurrent hidden layers on top of each other, just as feedforward layers are stacked in conventional deep
   > networks."
-  >                                                                                                           — Speech Recognition With Deep Recurrent Neural Networks, 2013                                                                                                            
+  >                                                                                                           — [Speech Recognition With Deep Recurrent Neural Networks, 2013](https://arxiv.org/abs/1303.5778)                                                                                                            
 # [Decoding learning curves](https://machinelearningmastery.com/learning-curves-for-diagnosing-machine-learning-model-performance/)
 
 # Videos
