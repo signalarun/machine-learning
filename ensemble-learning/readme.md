@@ -23,3 +23,8 @@ Ensemble learning is useful for models on stochastic learning algorithm were its
 Extensions for ensemble learning :
  + Weighted Average Ensemble (blending)
  + Stacked Generalization (stacking)
+
+## Tutorials
+ + https://www.datacamp.com/community/tutorials/ensemble-learning-python
+
+
