@@ -26,5 +26,6 @@ Extensions for ensemble learning :
 
 ## Tutorials
  + https://www.datacamp.com/community/tutorials/ensemble-learning-python
+ + https://www.kaggle.com/signalarun/ensemble-learning
 
 
