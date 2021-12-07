@@ -5,3 +5,5 @@
  3. [What is a gradient?](https://www.youtube.com/watch?v=6zgBUZuC-p8)
  4. [Geometric Meaning of the Gradient Vector](https://www.youtube.com/watch?v=QQPz3eXXgQI)
  5. [Directional Derivatives | What's the slope in any direction?](https://www.youtube.com/watch?v=GJODOGq7cAY)
+
+#### Vanishing and exploding gradient
