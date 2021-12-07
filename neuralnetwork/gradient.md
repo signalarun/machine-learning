@@ -7,3 +7,4 @@
  5. [Directional Derivatives | What's the slope in any direction?](https://www.youtube.com/watch?v=GJODOGq7cAY)
 
 #### Vanishing and exploding gradient
+ 1. [Vanishing & Exploding Gradient explained | A problem resulting from backpropagation](https://www.youtube.com/watch?v=qO_NLVjD6zE)
