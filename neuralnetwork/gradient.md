@@ -8,3 +8,4 @@
 
 #### Vanishing and exploding gradient
  1. [Vanishing & Exploding Gradient explained | A problem resulting from backpropagation](https://www.youtube.com/watch?v=qO_NLVjD6zE)
+ 2. [Vanishing/Exploding Gradients (C2W1L10)](https://www.youtube.com/watch?v=qhXZsFVxGKo)
