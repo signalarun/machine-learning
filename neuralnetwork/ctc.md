@@ -1,3 +1,3 @@
 Connectionist Temporal Classification (CTC)
 ===========================================
- A Neural Network output helpful in tackling sequence problems like handwriting and speech recognition where the timing varies.
+Connectionist temporal classification (CTC) is a type of neural network output and associated scoring function, for training recurrent neural networks (RNNs) such as LSTM networks to tackle sequence problems where the timing is variable. It can be used for tasks like on-line handwriting recognition or recognizing phones in speech audio.
